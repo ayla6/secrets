@@ -11,6 +11,13 @@ let
 in {
   "ayla/syncthing/morgana/key.age".publicKeys = keys;
   "ayla/syncthing/morgana/cert.age".publicKeys = keys;
+  "ayla/syncthing/nanpi/key.age".publicKeys = keys;
+  "ayla/syncthing/nanpi/cert.age".publicKeys = keys;
   "tailscale/auth.age".publicKeys = keys;
   "tailscale/caddyAuth.age".publicKeys = keys;
+  "pds.age".publicKeys = keys;
+  "rclone.age".publicKeys = keys;
+  "restic-passwd.age".publicKeys = keys;
+  "cloudflare/certificate.age".publicKeys = keys;
+  "cloudflare/credentials.age".publicKeys = keys;
 }

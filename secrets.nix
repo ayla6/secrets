@@ -12,4 +12,5 @@ in {
   "ayla/syncthing/morgana/key.age".publicKeys = keys;
   "ayla/syncthing/morgana/cert.age".publicKeys = keys;
   "tailscale/auth.age".publicKeys = keys;
+  "tailscale/caddyAuth.age".publicKeys = keys;
 }

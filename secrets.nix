@@ -23,4 +23,5 @@ in {
   "restic-passwd.age".publicKeys = keys;
   "cloudflare/certificate.age".publicKeys = keys;
   "cloudflare/credentials.age".publicKeys = keys;
+  "vaultwarden.age".publicKeys = keys;
 }

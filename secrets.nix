@@ -2,6 +2,7 @@ let
   hosts = [
     "morgana"
     "nanpi"
+    "jezebel"
   ];
   users = [
     "ayla_morgana"

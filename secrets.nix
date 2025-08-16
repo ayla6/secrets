@@ -25,4 +25,7 @@ in {
   "cloudflare/credentials.age".publicKeys = keys;
   "vaultwarden.age".publicKeys = keys;
   "tangled-knot.age".publicKeys = keys;
+  "forgero/mailer-passwd.age".publicKeys = keys;
+  "forgero/mailer-address.age".publicKeys = keys;
+  "postgres/forgejo.age".publicKeys = keys;
 }

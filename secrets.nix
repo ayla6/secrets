@@ -24,4 +24,5 @@ in {
   "cloudflare/certificate.age".publicKeys = keys;
   "cloudflare/credentials.age".publicKeys = keys;
   "vaultwarden.age".publicKeys = keys;
+  "tangled-knot.age".publicKeys = keys;
 }

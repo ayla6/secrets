@@ -26,4 +26,5 @@ in {
   "vaultwarden.age".publicKeys = keys;
   "tangled-knot.age".publicKeys = keys;
   "postgres/forgejo.age".publicKeys = keys;
+  "gemini.age".publicKeys = keys;
 }

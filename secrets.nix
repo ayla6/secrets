@@ -27,4 +27,5 @@ in {
   "tangled-knot.age".publicKeys = keys;
   "postgres/forgejo.age".publicKeys = keys;
   "gemini.age".publicKeys = keys;
+  "copyparty.age".publicKeys = keys;
 }

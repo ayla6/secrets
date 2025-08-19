@@ -28,4 +28,5 @@ in {
   "postgres/forgejo.age".publicKeys = keys;
   "gemini.age".publicKeys = keys;
   "copyparty.age".publicKeys = keys;
+  "autobrr.age".publicKeys = keys;
 }

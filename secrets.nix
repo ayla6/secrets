@@ -30,4 +30,5 @@ in {
   "copyparty.age".publicKeys = keys;
   "autobrr.age".publicKeys = keys;
   "ntfyAuto.age".publicKeys = keys;
+  "miniflux.age".publicKeys = keys;
 }

@@ -29,4 +29,5 @@ in {
   "gemini.age".publicKeys = keys;
   "copyparty.age".publicKeys = keys;
   "autobrr.age".publicKeys = keys;
+  "ntfyAuto.age".publicKeys = keys;
 }

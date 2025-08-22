@@ -23,6 +23,7 @@ in {
   "restic-passwd.age".publicKeys = keys;
   "cloudflare/certificate.age".publicKeys = keys;
   "cloudflare/credentials.age".publicKeys = keys;
+  "cloudflare/fail2ban.age".publicKeys = keys;
   "vaultwarden.age".publicKeys = keys;
   "tangled-knot.age".publicKeys = keys;
   "postgres/forgejo.age".publicKeys = keys;

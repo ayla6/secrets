@@ -32,4 +32,5 @@ in {
   "autobrr.age".publicKeys = keys;
   "ntfyAuto.age".publicKeys = keys;
   "miniflux.age".publicKeys = keys;
+  "couchdb.age".publicKeys = keys;
 }

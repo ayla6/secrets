@@ -17,7 +17,7 @@ in {
   "ayla/syncthing/nanpi/key.age".publicKeys = keys;
   "ayla/syncthing/nanpi/cert.age".publicKeys = keys;
   "tailscale/auth.age".publicKeys = keys;
-  "tailscale/caddyAuth.age".publicKeys = keys;
+  "caddy.age".publicKeys = keys;
   "pds.age".publicKeys = keys;
   "rclone.age".publicKeys = keys;
   "restic-passwd.age".publicKeys = keys;

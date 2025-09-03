@@ -12,6 +12,7 @@ let
   userKeys = builtins.map (user: builtins.readFile ./publicKeys/${user}.pub) users;
   keys = systemKeys ++ userKeys;
 in {
+  "ayla/passwordHash.age".publicKeys = keys;
   "ayla/syncthing/morgana/key.age".publicKeys = keys;
   "ayla/syncthing/morgana/cert.age".publicKeys = keys;
   "ayla/syncthing/nanpi/key.age".publicKeys = keys;

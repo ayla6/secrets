@@ -32,4 +32,5 @@ in {
   "ntfyAuto.age".publicKeys = keys;
   "miniflux.age".publicKeys = keys;
   "postgres/forgejo.age".publicKeys = keys;
+  "atproto-notif.age".publicKeys = keys;
 }

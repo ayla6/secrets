@@ -13,6 +13,7 @@ let
   keys = systemKeys ++ userKeys;
 in {
   "ayla/passwordHash.age".publicKeys = keys;
+  "ayla/crazierPasswordHash.age".publicKeys = keys;
   "ayla/syncthing/morgana/key.age".publicKeys = keys;
   "ayla/syncthing/morgana/cert.age".publicKeys = keys;
   "ayla/syncthing/nanpi/key.age".publicKeys = keys;

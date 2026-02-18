@@ -18,7 +18,7 @@ in {
   "ayla/syncthing/morgana/cert.age".publicKeys = keys;
   "ayla/syncthing/nanpi/key.age".publicKeys = keys;
   "ayla/syncthing/nanpi/cert.age".publicKeys = keys;
-  "lastfm.age".publicKeys = keys;
+  "navidrome.age".publicKeys = keys;
   "tailscale/auth.age".publicKeys = keys;
   "caddy.age".publicKeys = keys;
   "pds.age".publicKeys = keys;

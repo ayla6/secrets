@@ -37,4 +37,5 @@ in {
   "atproto-notif.age".publicKeys = keys;
   "slskd.age".publicKeys = keys;
   "tranquil.age".publicKeys = keys;
+  "nicotine.age".publicKeys = keys;
 }

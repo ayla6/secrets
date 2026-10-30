@@ -38,4 +38,5 @@ in {
   "slskd.age".publicKeys = keys;
   "tranquil.age".publicKeys = keys;
   "nicotine.age".publicKeys = keys;
+  "knot.age".publicKeys = keys;
 }
